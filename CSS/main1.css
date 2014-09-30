@@ -1,0 +1,45 @@
+
+
+/*
+@font-face {
+  font-family: 'Averia Serif Libre';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Averia Serif Libre Regular'), local('AveriaSerifLibre-Regular'), url(http://fonts.gstatic.com/s/averiaseriflibre/v5/fdtF30xa_Erw0zAzOoG4BZU_qAjrTyul-83n5f2Rbir3rGVtsTkPsbDajuO5ueQw.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+*/
+
+/*body{font-family:'Roboto Slab', georgia, serif;font-style:normal;font-weight:300;font-size:18px;font-size:1.125rem;line-height:1.4;margin:0 auto;max-width:550px;width:100%}*/
+
+body{
+    font-family: 'Dawning of a New Day', fantasy;
+ 
+    margin:0 auto;max-width:550px;width:100%
+}
+
+blockquote {
+   font-family: 'Dawning of a New Day', monospace;
+}
+
+img{height:auto;width:500px}
+
+h2,h3, h4, h5, h6 {font-family:'Roboto Slab', helvetica, verdana, sans-serif;font-style:italic;font-weight:700;line-height:1}
+
+h1{color:#FF00FF ;margin:48px 20px;text-transform:capitalize; font-size: 120px; font-style: italic}
+
+
+ul li{display:inline-block;margin:0 6xp}
+
+
+
+/*div{color:#c45353;font-size:50px;font-size:3.125rem;font-family:'Roboto Slab', georgia, serif;font-style:normal;font-weight:700;margin:30px 0;line-height:1}*/
+
+footer[role="complementary"]{border-bottom:1px #989898 silid;border-top:1px #989898 solid;color:#989898;margin:40px 0;padding:10px 0}
+
+
+p{font-size:18px;font-size:1.125rem}
+
+
+
+small{border-top:1px #989898 solid;font-size:14px;font-size:0.875rem;padding-bottom:20px}
